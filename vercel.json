@@ -1,9 +1,10 @@
 {
   "build": {
     "env": {
-      "HUGO_VERSION": "0.150.0",  // 替换为您本地使用的 Hugo 版本
-      "GO_VERSION": "1.21"       // 建议指定一个 Go 版本
+      "HUGO_VERSION": "0.150.0",  
+      "GO_VERSION": "1.21"       
     },
-    "buildCommand": "hugo --gc --minify"
+    "buildCommand": "npm run build",
+    "outputDirectory": "public"
   }
 }
