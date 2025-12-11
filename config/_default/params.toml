@@ -49,6 +49,7 @@
     [navigation.search]
         enabled = true
         modal = false
+        indexContent = true
 
 [messages]
     placement = "bottom-right"
