@@ -1,5 +1,5 @@
 ---
-title: "第一篇医疗史内容test"
+title: "测试：第一篇医疗史内容"
 date: 2025-12-11
 thumbnail:
   url: /img/sunrise.jpg
