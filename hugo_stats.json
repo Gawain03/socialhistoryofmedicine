@@ -270,7 +270,6 @@
     ],
     "ids": [
       "container",
-      "ens",
       "fa-face-frown",
       "fab-facebook",
       "fab-github",
@@ -289,6 +288,7 @@
       "navbar-0-collapse",
       "navbar-mode",
       "navbar-mode-checkbox",
+      "posts",
       "toast-container",
       "toast-copied-code-message",
       "toast-message-email-4",
